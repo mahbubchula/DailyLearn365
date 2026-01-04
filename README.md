@@ -3,9 +3,11 @@
 [![Streamlit App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen?logo=streamlit)](https://streamlit.io/cloud)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/YOUR_GITHUB_USERNAME/DailyLearn365)]()
-[![Last Commit](https://img.shields.io/github/last-commit/YOUR_GITHUB_USERNAME/DailyLearn365)]()
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)]()
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/mahbubchula/DailyLearn365)](https://github.com/mahbubchula/DailyLearn365)
+[![Last Commit](https://img.shields.io/github/last-commit/mahbubchula/DailyLearn365)](https://github.com/mahbubchula/DailyLearn365/commits/main)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-success)](https://opensource.org/)
+
+---
 
 ---
 
